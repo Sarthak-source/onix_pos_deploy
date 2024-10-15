@@ -28054,7 +28054,7 @@ _.b=b
 _.c=c
 _.d=d},
 b0d(){var s,r=null,q=$.ab(),p=t.WF,o=A.a([],p)
-p=A.a([new A.fD(100250131070,"Mixer 2200W",297,1),new A.fD(9788179927687,"Oven 80L",629,1),new A.fD(30,"Cake Maker 1600W",629,1)],p)
+p=A.a([new A.fD(100250131070,"Mixer 2200W",297,0),new A.fD(9788179927687,"Oven 80L",629,0),new A.fD(30,"Cake Maker 1600W",629,0)],p)
 s=A.a([A.li(!1,B.f3,!0,!0,!1,!0,!0,!0,!1,!0,!1,"name",r,!1,!1,r,!0,B.fO,"Name",B.bM,new A.jn(""),240),A.li(!1,B.f3,!0,!0,!1,!0,!0,!0,!1,!0,!1,"unit",r,!1,!1,r,!0,B.fO,"Unit",B.bM,new A.jn(""),240),A.li(!1,B.f3,!0,!0,!1,!0,!0,!0,!1,!0,!1,"quantity",r,!1,!1,new A.an9(),!0,B.fO,"Quantity",B.bM,new A.jn(""),240),A.li(!1,B.f3,!0,!0,!1,!0,!0,!0,!1,!0,!1,"price",r,!1,!1,r,!0,B.fO,"Price",B.bM,new A.jn(""),240),A.li(!1,B.f3,!0,!0,!1,!0,!0,!0,!1,!0,!1,"delete",r,!1,!1,new A.ana(),!0,B.fO,"Delete",B.bM,new A.jn(""),240)],t.l)
 $.aSN()
 return new A.pf(new A.df(),new A.iK(B.e9,q),new A.iK(B.e9,q),o,p,s,B.Qi,new A.TJ())},
