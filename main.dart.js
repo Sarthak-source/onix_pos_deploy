@@ -101898,7 +101898,7 @@ n=o.h(0,q)
 if(n.d)n.cg()
 r=A.aO(n.b)
 n=this.a
-if(r>0){p=r-1
+if(r>1){p=r-1
 o.h(0,q).sn(p)
 n.vL(s,p)}else{o=$.a76().gX().c
 o.toString
